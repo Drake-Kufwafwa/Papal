@@ -24,7 +24,7 @@ install.packages("Papal")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-#library(Papal)
+library(Papal)
 ## basic example code
 ```
 
